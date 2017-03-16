@@ -1,5 +1,7 @@
 # rmarkdown-polyglot
 
+![](all.png)
+
 A simple demo of rmarkdown's versatility for academic publishing. (Thanks
 to [pandoc](http://pandoc.org/).)
 
